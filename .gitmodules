@@ -1,0 +1,3 @@
+[submodule "graph-visualizer"]
+	path = graph-visualizer
+	url = https://github.com/saravana-sn/graph-visualizer

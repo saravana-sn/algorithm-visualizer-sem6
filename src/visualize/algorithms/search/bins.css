@@ -1,0 +1,13 @@
+.array-item::before {
+  content: attr(data-index); /* Returns 'index number' */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  color: black;
+  font-size: 10px;
+}
+
+.table-responsive {
+  padding-bottom: 20px !important;
+}
