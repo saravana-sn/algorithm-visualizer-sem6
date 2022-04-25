@@ -1,4 +1,4 @@
-# algorithm-visualizer-sem6
+# Algorithms Visualizer
 Mini Project made in TE.
 - The Project was made as a part of Course Requirement of Third Year Engineering (T.E.) 
 - It is a Website for Visualizing some of the **Searching, Sorting and Graph Traversal Algorithms.**
