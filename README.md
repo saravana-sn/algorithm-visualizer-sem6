@@ -7,7 +7,8 @@ Mini Project made in TE.
  > **Sorting    -**     Bubble Sort | Merge Sort | Insertion Sort  
  > **Searching  -**     Binary Search  
  > **Graph      -**     BFS | DFS
- >- [Live Demo](https://saravana-sn.github.io/algorithm-visualizer-sem6/)
+ - [Live Demo](https://saravana-sn.github.io/algorithm-visualizer-sem6/)          
+
 
 
 [<img src=https://github.com/saravana-sn/algorithm-visualizer-sem6/blob/master/screenshots/homepage.png>](https://saravana-sn.github.io/algorithm-visualizer-sem6/)
